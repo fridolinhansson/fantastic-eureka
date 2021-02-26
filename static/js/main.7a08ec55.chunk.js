@@ -1,0 +1,2 @@
+(this["webpackJsonpfantastic-eureka"]=this["webpackJsonpfantastic-eureka"]||[]).push([[0],{4:function(e,n,t){},5:function(e,n,t){"use strict";t.r(n);t(0);var s=t(3),a=t.n(s),c=t(4),i=t.n(c),r=t(2),u=function(){return Object(r.jsx)("div",{className:i.a.view,children:"Business"})};a.a.render(Object(r.jsx)(u,{}),document.getElementById("root"))}},[[5,1,2]]]);
+//# sourceMappingURL=main.7a08ec55.chunk.js.map

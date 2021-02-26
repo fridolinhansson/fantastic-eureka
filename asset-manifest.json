@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fantastic-eureka/static/css/main.bde3c577.chunk.css",
+    "main.js": "/fantastic-eureka/static/js/main.7a08ec55.chunk.js",
+    "main.js.map": "/fantastic-eureka/static/js/main.7a08ec55.chunk.js.map",
+    "runtime-main.js": "/fantastic-eureka/static/js/runtime-main.64c6ce37.js",
+    "runtime-main.js.map": "/fantastic-eureka/static/js/runtime-main.64c6ce37.js.map",
+    "static/js/2.ba2b3b60.chunk.js": "/fantastic-eureka/static/js/2.ba2b3b60.chunk.js",
+    "static/js/2.ba2b3b60.chunk.js.map": "/fantastic-eureka/static/js/2.ba2b3b60.chunk.js.map",
+    "index.html": "/fantastic-eureka/index.html",
+    "static/css/main.bde3c577.chunk.css.map": "/fantastic-eureka/static/css/main.bde3c577.chunk.css.map",
+    "static/js/2.ba2b3b60.chunk.js.LICENSE.txt": "/fantastic-eureka/static/js/2.ba2b3b60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c6ce37.js",
+    "static/js/2.ba2b3b60.chunk.js",
+    "static/css/main.bde3c577.chunk.css",
+    "static/js/main.7a08ec55.chunk.js"
+  ]
+}
